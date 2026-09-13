@@ -19,6 +19,10 @@ Altyzo automates the full SEO workflow — technical audits, research, content g
 - **Track rankings and get alerted** when positions change or issues surface.
 - **Manage multiple clients** with isolated workspaces and team-based access.
 
+## Open Source
+
+- [awesome-aeo-geo](https://github.com/Altyzo/awesome-aeo-geo) — A curated list of tools, research, benchmarks, and resources for Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO).
+
 ## Get started
 
 Altyzo is self-hosted and licensed per agency. [Contact us](mailto:hello@altyzo.com) to get a license key and access to the platform.
